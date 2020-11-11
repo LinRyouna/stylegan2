@@ -52,7 +52,8 @@ gdrive_urls = {
     'gdrive:networks/table2/stylegan2-ffhq-config-e-Gskip-Dskip.pkl':       'http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/table2/stylegan2-ffhq-config-e-Gskip-Dskip.pkl',
     'cocogan': 'https://drive.google.com/uc?export=download&id=17f9Q8R_GTz6zVNYe0OcI1AnLkEQW4M3J',
     'sayogan': 'https://drive.google.com/uc?export=download&id=1oK9JM-FHPAshqGmJa9z9YPAkqmk21dEy',
-    'cinnagan': 'https://drive.google.com/uc?export=download&id=1ZSR3RdF3NMV17Acqk5czqeORYrNCkp0E'
+    'cinnagan': 'https://drive.google.com/uc?export=download&id=1ZSR3RdF3NMV17Acqk5czqeORYrNCkp0E',
+    'cinnamonGAN' : 'https://drive.google.com/uc?export=download&id=1qCQGYWvDOrakeI6DC7q1VNiwyvB_km3a'
 }
 
 #----------------------------------------------------------------------------
